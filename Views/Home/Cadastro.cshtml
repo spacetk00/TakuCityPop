@@ -1,0 +1,25 @@
+@model Usuario;
+@{
+    ViewData["Title"] = "Cadastro";
+}
+<h2>Cadastro</h2>
+<p>Se você tem interesse em ficar informado sobre eventos do servidor, se inscreva, e nós enviarmos um email pra você</p>
+
+<form method="POST" asp-action="Cadastro">
+    <p>
+        <label asp-for="Nome">Nome</label>
+        <input asp-for="Nome" placeholder="insira seu nome"/>
+    </p>
+    <p>
+        <label asp-for="Email">Email</label>
+        <input type="email" asp-for="Email"placeholder="insira seu email"/>
+    </p>
+    <p>
+        <label asp-for="DataNascimento">Data</label>
+        <input type="date" asp-for="DataNascimento"/>
+    </p>
+    <input type="submit" value="Cadastrar"/>
+</form>
+<p id="confirma">
+    @ViewBag.Mensagem
+</p>

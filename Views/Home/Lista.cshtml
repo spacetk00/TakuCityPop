@@ -1,0 +1,27 @@
+@model IEnumerable<Usuario>
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h2>Lista</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Data de Nascimento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Usuario usuario in Model)
+        {
+            <tr>
+                <td>@usuario.Id</td>
+                <td>@usuario.Nome</td>
+                <td>@usuario.Email</td>
+                <td>@usuario.DataNascimento.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>

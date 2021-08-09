@@ -1,0 +1,128 @@
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/appsettings.Development.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/appsettings.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.deps.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.dev.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csprojAssemblyReference.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.GeneratedMSBuildEditorConfig.editorconfig
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfoInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CoreCompileInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.MvcApplicationPartsAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.Manifest.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.xml
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/scopedcss/bundle/TakuCityPop.styles.css
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.input.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.output.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorCoreGenerate.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Cadastro.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Lista.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Sobre.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.genruntimeconfig.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 3/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CopyComplete
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csprojAssemblyReference.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.GeneratedMSBuildEditorConfig.editorconfig
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfoInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CoreCompileInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.MvcApplicationPartsAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/appsettings.Development.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/appsettings.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.deps.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.dev.json
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/bin/Debug/net5.0/MySqlConnector.dll
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.Manifest.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.xml
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/scopedcss/bundle/TakuCityPop.styles.css
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.input.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.output.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorCoreGenerate.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Cadastro.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Lista.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Sobre.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CopyComplete
+/home/fantasioso/Documentos/00-tecinfo/UC08 - Projeto/Atividade 4/TakuCityPop/obj/Debug/net5.0/TakuCityPop.genruntimeconfig.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/appsettings.Development.json
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/appsettings.json
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.deps.json
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.json
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.runtimeconfig.dev.json
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/bin/Debug/net5.0/MySqlConnector.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.AssemblyReference.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.GeneratedMSBuildEditorConfig.editorconfig
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfoInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.AssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CoreCompileInputs.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.MvcApplicationPartsAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.Manifest.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/staticwebassets/TakuCityPop.StaticWebAssets.xml
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/scopedcss/bundle/TakuCityPop.styles.css
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.input.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.TagHelpers.output.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorCoreGenerate.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Cadastro.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Lista.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Home/Sobre.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cache
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.RazorTargetAssemblyInfo.cs
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.Views.pdb
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.csproj.CopyComplete
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/ref/TakuCityPop.dll
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.pdb
+/home/fantasioso/Documentos/00-tecinfo/Modulo 2/UC08B - Projeto/Atividade 05/TakuCityPop/obj/Debug/net5.0/TakuCityPop.genruntimeconfig.cache
