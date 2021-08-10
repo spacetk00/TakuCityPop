@@ -8,48 +8,29 @@
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="shortcut icon" href="~/img/favicon.ico" type="image/x-icon">
 </head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container" id="barra">
-                <img src="~/img/taku_pl.jpg" alt="logo">
-                <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index" id="titulo">TakuCityPop</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1" id="barra_menu">
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Principal</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Sobre">Sobre</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Cadastro">Cadastro</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Lista">Lista</a>
-                        </li>
-                    </ul>
-                </div>
+<body class="container d-flex h-100 flex-column">
+    <header id="banner" class="row">
+        <div class=col-6>
+            <a asp-area="" asp-controller="Home" asp-action="Index" class="col-xm-12">
+                <img src="~/img/taku_pl.jpg" alt="logo" id="logo">
+            </a>
+        </div>
+        <nav class="col">  
+            <div class="row">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="col-xm-12 col-md-6 col-lg-3">Principal</a>
+                <a asp-area="" asp-controller="Home" asp-action="Sobre" class="col-xm-12 col-md-6  col-lg-3">Sobre</a>
+                <a asp-area="" asp-controller="Home" asp-action="Cadastro" class="col-xm-12 col-md-6  col-lg-3">Cadastro</a>
+                <a asp-area="" asp-controller="Home" asp-action="Lista" class="col-xm-12 col-md-6  col-lg-3">Lista</a>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container" id="rodape">
-            &copy; 2020 - Taku's Citypop - takucitypop@voidmail.com
-            <a href="https://discord.gg/jk7RxQnszW" rel="external" target="_blank">
-                <img src="~/img/discord.png" alt="discord">Discord Link
-            </a>
-        </div>
+    <main role="main" class="pb-3 row flex-fill d-flex justify-content-start" id="centro">
+        @RenderBody()
+    </main>
+
+    <footer class="row">
+        <p class="col-12">&copy; 2020 - Taku's Citypop - takucitypop@voidmail.com</p>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

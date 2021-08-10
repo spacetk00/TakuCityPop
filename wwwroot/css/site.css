@@ -1,154 +1,167 @@
-﻿/* Código customizado*/
-#barra
-{
-  background-color: #1f2124;
-  font-family: 'Courier New', Courier, monospace;
+﻿:root{
+  --color0: rgb(48, 47, 47);
+  --color1: #1f2124;
+  --color2: #1f212470;
 }
 
-#menu
-{
-  color: #d3d3d3;
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
 }
 
-#rodape
-{
-  color: #d3d3d3;
-  background-color: #1f2124;
+html{
+  position: relative;
+  height: 100%;
 }
 
-#confirma
-{
-  margin-top: 40px;
-  color: #1861ac;
+body{
+  height: 100%;
+  background-color: var(--color0);
 }
 
-.capas
-{
-  margin-top: 20px;
-  margin-bottom: 40px;
-  margin-right: 70px;
+#banner{
+  padding: 20px;
+  background: var(--color1);
+  font-size: 1em;
+  max-width: 1200px;
+  max-height: 40%;
 }
-p
-{
+
+nav{
+  margin: auto;
+}
+
+nav > div > a{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  padding: 5px;
+  border-radius: 20px;
+  transition: 0.3s;
 }
-ul
-{
+
+nav > div > a:hover{
+  text-decoration: none;
+  background-color: purple;
+  color: white;
+}
+
+nav > div > a:active{
+  text-decoration: none;
+  background-color: rgb(4, 50, 202);
+  color: white;
+}
+
+#logo{
+  border-radius: 50%;
+}
+
+
+#centro{
+  color: aliceblue;
+  max-width: 1200px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/city.webp");
+}
+
+h2{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bloco{
+  background-color: var(--color2);
+  margin-top: 10px;
+  margin-bottom:10px;
+  border-radius: 10px;
+}
+
+.paragrafo{
+  font-size: 1.2em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 18px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#capas-div > a{
+  padding: 5px;
+}
+
+#capas-div > a > img{
+  border-radius: 20px;
+  transition: 0.5s;
+  opacity: 0.7;
+}
+
+#capas-div > a > img:hover{
+  border-radius: 40px;
+  transform: scale(1.2);
+  opacity: 1;
+}
+
+#sobre > li{
+  font-size: 1em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
   list-style-image: url('/img/music.png');
+  list-style-position: inside;
 }
 
-form
-{
-  background-color: rgb(212, 211, 226);
-  width: min-content;
-  border: 2px solid #eee;
+form{
+  max-width: 70%;
+}
+form > p > #confirmar{
+  align-items: center;
+  width: 100%;
+  border: none;
+  background-color: purple;
+  text-decoration: none;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  transition: 0.7s;
 }
 
-input
-{
-  padding:10px;
-  border:0;
-  box-shadow:0 0 100px 4px rgba(100, 29, 29, 0.06);
+form > p > #confirmar:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  background-color: rgb(172, 19, 172);
+}
+
+form > p > label{
+  width: 100%;
+}
+
+form > p > input{
+  width: 100%;
+}
+
+.paragrafo-form{
+  font-size: 1em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 table{
-  border-collapse: collapse;
+  opacity: 0.8;
 }
 
-td, th{
-  border: 1px solid #999;
-  padding: 0.5rem;
-  text-align: left;
-}
-
-th{
-  background-color: rgb(81, 59, 141);
-  color: white;
-}
-td{
-  background-color:rgb(233, 166, 222)
-}
-
-li.nav-item
-{
-  margin-right: 30px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-}
-
-
-/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-for details on configuring this project to bundle and minify static web assets. */
-
-a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
-}
-
-
-/* Provide sufficient contrast against white background */
-a {
-  color: #ffffff;
-}
-
-.btn-primary {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-  color: #fff;
-  background-color: #1b6ec2;
-  border-color: #1861ac;
-}
-
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  font-size: 14px;
-}
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.border-top {
-  border-top: 1px solid #e5e5e5;
-}
-.border-bottom {
-  border-bottom: 1px solid #e5e5e5;
-}
-
-.box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
-}
-
-/* Sticky footer styles
--------------------------------------------------- */
-html {
-  position: relative;
-  min-height: 100%;
-}
-
-body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-}
-.footer {
-  position: absolute;
+footer{
   bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  line-height: 60px; /* Vertically center the text there */
+  max-height: 10%;
+  max-width: 1200px;
+  color: white;
+  background-color: var(--color1);
 }
+
+footer > p{
+  text-align: center;
+}
+
+
+

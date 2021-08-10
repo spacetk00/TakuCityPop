@@ -12,7 +12,7 @@ namespace TakuCityPop.Models
         {
             MySqlConnection Conexao = new MySqlConnection(DadosConexao);
             Conexao.Open();
-            System.Console.WriteLine("Banco de dados funcionando");
+            //System.Console.WriteLine("Banco de dados funcionando");
             Conexao.Close();
         }
         public void Cadastrar(Usuario usuario)
