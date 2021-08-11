@@ -1,7 +1,8 @@
 ﻿:root{
   --color0: rgb(48, 47, 47);
   --color1: #1f2124;
-  --color2: #1f212470;
+  --color2: #060707;
+  --color3: #1f212470;
 }
 
 *{
@@ -22,7 +23,7 @@ body{
 
 #banner{
   padding: 20px;
-  background: var(--color1);
+  background-image: linear-gradient( var(--color2), var(--color1));
   font-size: 1em;
   max-width: 1200px;
   max-height: 40%;
@@ -61,19 +62,21 @@ nav > div > a:active{
 
 
 #centro{
+  position: relative;
   color: aliceblue;
   max-width: 1200px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/city.webp");
 }
 
 h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 .bloco{
-  background-color: var(--color2);
+  background-color: var(--color3);
   margin-top: 10px;
   margin-bottom:10px;
   border-radius: 10px;
@@ -87,20 +90,39 @@ h2{
   margin-bottom: 10px;
 }
 
-#capas-div > a{
+.capas-div > a{
   padding: 5px;
 }
 
-#capas-div > a > img{
+.capas-div > a > img{
   border-radius: 20px;
   transition: 0.5s;
   opacity: 0.7;
 }
 
-#capas-div > a > img:hover{
+.capas-div > a > img:hover{
   border-radius: 40px;
   transform: scale(1.2);
   opacity: 1;
+}
+
+.discord-logo{
+  transition: 0.5s;
+  opacity: 0.7;
+  max-width: 30%;
+}
+
+.discord-logo-pulse{
+  opacity: 1;
+  transform: scale(1.1);
+  max-width: 30%;
+}
+
+.discord-logo:hover{
+  transition: 0.5s;
+  transform: scale(1.2);
+  opacity: 1;
+  max-width: 30%;
 }
 
 #sobre > li{
@@ -111,9 +133,23 @@ h2{
   list-style-position: inside;
 }
 
+.partner-logo{
+  opacity: 0.7;
+  border-radius: 50%;
+  max-width: 30%;
+  margin: 0 auto;
+  transition: 0.5s;
+}
+
+.partner-logo:hover{
+  opacity: 1;
+  border-radius: 40%;
+}
+
 form{
   max-width: 70%;
 }
+
 form > p > #confirmar{
   align-items: center;
   width: 100%;
@@ -147,6 +183,16 @@ form > p > input{
   margin-bottom: 20px;
 }
 
+.msg-erro{
+  font-size: 1.1em;
+  color: red;
+}
+
+#confirma{
+  font-size: 1.3em;
+  color: aqua;
+}
+
 table{
   opacity: 0.8;
 }
@@ -156,7 +202,7 @@ footer{
   max-height: 10%;
   max-width: 1200px;
   color: white;
-  background-color: var(--color1);
+  background-image: linear-gradient( var(--color1), var(--color2));
 }
 
 footer > p{
